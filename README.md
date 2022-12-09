@@ -14,17 +14,3 @@ and you may move the cursor, make a left click, right click, drag, select, and u
 The objective of the resulting application is to serve as an alternative for mouses and remotes for navigating or interacting with the UI of a computer. The application can be run on any system with python installed, given that it has a webcam and meets the minimum requirements that will be stated in one of the upcoming sections. The application is also meant to increase the ease for physically disabled people.
 
 
- Description 
-Action
-Index finger up(on left or right)
-
-All other fingers closed 
-Cursor Movement
-Index and middle fingers up (on left or right hand)
-
-All other fingers closed.
-Left Click
-Index,Middle and Ring fingers up(on left or right hand)
-
-Little and Thumb fingers closed
-Right Click
