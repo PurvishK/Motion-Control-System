@@ -19,6 +19,7 @@ The objective of the resulting application is to serve as an alternative for mou
 
 We developed a single-shot detector model for mobile real-time usage to find first hand locations in a manner comparable to the face recognition model in MediaPipe Face Mesh. Recognize hands that are self- or otherwise occluded in relation to the visual frame. Unlike faces, which have high contrast patterns around the mouth and eyes, it can be difficult to correctly recognise hands from their visual characteristics alone. Instead, adding extra context—such as details of the arm, torso, or person—allows for accurate hand localization.
 
+<img width="347" alt="image" src="https://user-images.githubusercontent.com/84976306/206762791-6d49d247-bc40-4c76-b32d-91d3f8ae1e4b.png">
 
 # Module 2- Hand Landmark Model
 
